@@ -1,0 +1,4 @@
+name: RideableEnderpearl
+version: ${project.version}
+main: dev.mansitoh.skilled.rideable.enderpearl
+authors: [Mansitoh]
